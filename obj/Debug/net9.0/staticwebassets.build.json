@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xP+EFzhlQepyQi3w4JsXUxDy5YAVVuo9dU/QMjctADI=",
+  "Source": "SiemensBookAPI",
+  "BasePath": "_content/SiemensBookAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
